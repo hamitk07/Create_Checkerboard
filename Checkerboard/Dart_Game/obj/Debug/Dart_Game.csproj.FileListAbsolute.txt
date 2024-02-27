@@ -1,0 +1,10 @@
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\bin\Debug\Dart_Game.exe.config
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\bin\Debug\Dart_Game.exe
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\bin\Debug\Dart_Game.pdb
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\obj\Debug\Dart_Game.csproj.AssemblyReference.cache
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\obj\Debug\Dart_Game.Form1.resources
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\obj\Debug\Dart_Game.Properties.Resources.resources
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\obj\Debug\Dart_Game.csproj.GenerateResource.cache
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\obj\Debug\Dart_Game.csproj.CoreCompileInputs.cache
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\obj\Debug\Dart_Game.exe
+C:\Users\hmtkr\OneDrive\Desktop\YoutubeC#Form\Dart_Game\Dart_Game\obj\Debug\Dart_Game.pdb
